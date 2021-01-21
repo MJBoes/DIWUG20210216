@@ -1,0 +1,14 @@
+{
+  "name": "20210216diwug",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  },
+  "devDependencies": {}
+}
